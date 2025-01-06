@@ -1,0 +1,189 @@
+{
+    "name": "AoYunLong",
+    "display-name": "奥宝彩虹(ZH)",
+    "version": "0.0.1",
+    "avatar": "image/avatar.png",
+    "avatar-dark":"image/avatar_dark.png",
+    "author": "camixxx",
+    "gender": "male",
+    "locale": "zh",
+    "description": "朝之云雀，夜之帷幕，老子已经没有什么，可以说的了",
+    "languages": [
+        "c",
+        "cpp",
+        "C++",
+        "javascript",
+        "typescript",
+        "rust",
+        "java",
+        "python",
+        "python3",
+        "golang"
+    ],
+    "contributes": [
+        {
+        	"keywords": ["main","class","template","def", "new", "function"],
+        	"voices": [
+				"/V1/SV316_0_开始1.mp3",
+				"/V1/SV316_0_开始2.mp3",
+				"/V1/SV316_0_开始3.mp3",
+				"/V1/SV316_0_技能1.mp3"
+        	]
+        },
+		{
+        	"keywords": ["continue", "default"],
+        	"voices": [
+				"/V1/SV316_0_攻击2.mp3",
+                "/V2/SV316_2_宝具卡2.mp3"
+        	]
+        },
+		{
+			"keywords": ["struct","switch"],
+        	"voices": [
+				"/V1/SV316_0_技能5.mp3",
+                "/V1/SV316_0_技能6.mp3"
+        	]
+		},
+        {
+			"keywords": ["int","long"],
+        	"voices": [
+				"/V1/SV316_0_指令卡1.mp3", 
+                "/V1/SV316_0_攻击5.mp3"
+        	]    
+        },
+        {
+			"keywords": ["float","double","string"],
+        	"voices": [
+				"/V2/SV316_2_受击1.mp3",
+                "/V2/SV316_2_受击2.mp3"
+        	]    
+        },
+        {
+        	"keywords":["try","catch"],
+        	"voices":[
+        		"/V1/SV316_0_攻击14.mp3", 
+        		"/V1/SV316_0_指令卡2.mp3", 
+                "/V2/SV316_2_攻击12.mp3" 
+        	]
+        },
+        {
+        	"keywords":["while","for"],
+        	"voices":[
+        		"/V1/SV316_0_技能2.mp3", 
+        		"/V1/SV316_0_宝具卡2.mp3", 
+        		"/V2/SV316_2_宝具1.mp3"
+        	]
+        },
+        {
+        	"keywords":["delete","finally","export","return"],
+        	"voices":[
+        		"/V1/SV316_0_无法战斗1.mp3", 
+        		"/V1/SV316_0_无法战斗2.mp3", 
+        		"/V1/SV316_0_胜利2.mp3", 
+                "/V1/SV316_0_受击1.mp3",
+                "/V2/SV316_2_宝具3.mp3"
+                
+        	]
+        },
+        {
+        	"keywords":["goto","process"],
+        	"voices":[
+        		"/V1/SV316_0_Extra1.mp3", 
+        		"/V1/SV316_0_Extra2.mp3", 
+                "/V1/SV316_0_Extra3.mp3"
+        	]
+        },
+        {
+        	"keywords":["false","False","not"],
+        	"voices":[
+                "/V1/SV316_0_受击2.mp3", 
+        		"/V1/SV316_0_召唤-2.mp3"
+        	]
+        },
+        {
+            "keywords":["print","log","show","console.log"],
+        	"voices":[
+        		"/V1/SV316_0_攻击8.mp3",
+                "/V2/SV316_2_胜利1.mp3"
+                
+        	]
+        },
+        {
+            "keywords":["cache","throw"],
+        	"voices":[
+        		"/V2/SV316_2_攻击13.mp3", 
+                "/V2/SV316_2_攻击14.mp3"
+        	]         
+        },
+        {
+            "keywords":["copy","this"],
+        	"voices":[
+        		"/V2/SV316_2_攻击6.mp3",
+                "/V2/SV316_2_对话1.mp3"
+        	] 
+        },
+        {
+            "keywords":["master","server","client"],
+        	"voices":[
+        		"/V2/SV316_2_对话2.mp3", 
+                "/V2/SV316_2_对话1.mp3"
+        	] 
+        },
+        {
+            "keywords":["volatile","typedef","define","case","database", "if"],
+        	"voices":[
+        		"/V2/SV316_2_攻击5.mp3"
+        	] 
+        },
+        {
+            "keywords":["true", "True", "yes"],
+        	"voices":[
+        		"/V2/SV316_2_技能2.mp3", 
+                "/V2/SV316_2_开始2.mp3"
+        	] 
+        },
+        {
+            "keywords":["NULL", "None", "undefined","void"],
+        	"voices":[
+        		"/V2/SV316_2_灵基再临2.mp3",
+                "/V2/SV316_2_技能1.mp3"
+        	] 
+        },
+
+        {
+            "keywords":["error", "err", "Error"],
+        	"voices":[
+        		"/V2/SV316_2_攻击11.mp3", 
+                "/V2/SV316_2_指令卡3.mp3"
+        	] 
+        },
+        {
+        "keywords":["pass", "TODO", "move"],
+        	"voices":[
+        		"/V2/SV316_2_攻击4.mp3", 
+                "/V2/SV316_2_宝具3.mp3", 
+                "/V2/SV316_2_攻击10.mp3"
+        	] 
+        },
+        {
+            "keywords":["set", "map", "range", "public"],
+                "voices":[
+                    "/V2/SV316_2_攻击8.mp3" 
+                ] 
+        },
+        {
+            "keywords":["protected ","static"],
+                "voices":[
+                    "/V2/SV316_2_胜利2.mp3"
+                ] 
+        },
+        {
+            "keywords":["native ","const","global"],
+                "voices":[
+                    "/V2/SV316_2_升级1.mp3"
+                ] 
+        }
+        
+       
+    ]
+}

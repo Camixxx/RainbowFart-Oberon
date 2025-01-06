@@ -1,0 +1,189 @@
+{
+    "name": "AoYunLong",
+    "display-name": "奥宝彩虹(ZH)",
+    "version": "0.0.1",
+    "avatar": "image/avatar.png",
+    "avatar-dark":"image/avatar_dark.png",
+    "author": "camixxx",
+    "gender": "male",
+    "locale": "zh",
+    "description": "朝之云雀，夜之帷幕，老子已经没有什么，可以说的了",
+    "languages": [
+        "c",
+        "cpp",
+        "C++",
+        "javascript",
+        "typescript",
+        "rust",
+        "java",
+        "python",
+        "python3",
+        "golang"
+    ],
+    "contributes": [
+        {
+        	"keywords": ["main","class","template","def", "new", "function"],
+        	"voices": [
+				"/V1/SV316_0_开始1.mp3",//如果不嫌弃我的话，我很乐意。虽然我更擅长跳舞。
+				"/V1/SV316_0_开始2.mp3",//妖精王奥伯龙，飒爽登场！呀，这么说还真是让人开心。
+				"/V1/SV316_0_开始3.mp3",//如果是无法避免的战斗的话就没办法了，动手吧。
+				"/V1/SV316_0_技能1.mp3"//那么，由此开始。
+        	]
+        },
+		{
+        	"keywords": ["continue", "default"],
+        	"voices": [
+				"/V1/SV316_0_攻击2.mp3",//去吧去吧！
+                "/V2/SV316_2_宝具卡2.mp3",//好吧！再一次，带来黄昏天空！
+        	]
+        },
+		{
+			"keywords": ["struct","switch"],
+        	"voices": [
+				"/V1/SV316_0_技能5.mp3", //你怎么认为，布兰卡？
+                "/V1/SV316_0_技能6.mp3", //啊……我明白。
+        	]
+		},
+        {
+			"keywords": ["int","long"],
+        	"voices": [
+				"/V1/SV316_0_指令卡1.mp3", //可以哦！
+                "/V1/SV316_0_攻击5.mp3", //忒修斯之铠。
+        	]    
+        },
+        {
+			"keywords": ["float","double","string"],
+        	"voices": [
+				"/V2/SV316_2_受击1.mp3", //真难看啊
+                "/V2/SV316_2_受击2.mp3", //哼。
+        	]    
+        },
+        {
+        	"keywords":["try","catch"],
+        	"voices":[
+        		"/V1/SV316_0_攻击14.mp3", //抱歉了！禁止进入。
+        		"/V1/SV316_0_指令卡2.mp3", //虽然有点难为情呢。
+                "/V2/SV316_2_攻击12.mp3" //你小看我吗？
+        	]
+        },
+        {
+        	"keywords":["while","for"],
+        	"voices":[
+        		"/V1/SV316_0_技能2.mp3", //想想好办法吧。
+        		"/V1/SV316_0_宝具卡2.mp3", //带给你温暖的梦境。
+        		"/V2/SV316_2_宝具1.mp3", //堕落至无底洞吧！
+        	]
+        },
+        {
+        	"keywords":["delete","finally","export","return"],
+        	"voices":[
+        		"/V1/SV316_0_无法战斗1.mp3", //生命也随着爱情消逝。这是理所当然的吧……
+        		"/V1/SV316_0_无法战斗2.mp3", //对不起，我好像就到此为止了……。其他人，御主就拜托你们了。
+        		"/V1/SV316_0_胜利2.mp3", //结束了？虽然是敌人，却有点不忍心打倒呢。
+                "/V1/SV316_0_受击1.mp3", //糟糕……走投无路了！
+                "/V2/SV316_2_宝具3.mp3", //在那前方……没有一丝光芒。
+                
+        	]
+        },
+        {
+        	"keywords":["goto","process"],
+        	"voices":[
+        		"/V1/SV316_0_Extra1.mp3", //Go！
+        		"/V1/SV316_0_Extra2.mp3", //比回忆更迅速，像流星一样！
+                "/V1/SV316_0_Extra3.mp3", //呵！简直就是在飙车！
+        	]
+        },
+        {
+        	"keywords":["false","False","not"],
+        	"voices":[
+                "/V1/SV316_0_受击2.mp3", //好痛！
+        		"/V1/SV316_0_召唤-2.mp3", //什么啊这是。为什么会变成这样……？啊，是吗。直到人理安定以前，谎言依旧是谎言吗？哈……行，我放弃了。因为你就是这种人啊。我的名字叫奥伯龙。既然被召唤了，那我一定会助你一臂之力的。虽然从心底上还是感到恶心呢。
+        	]
+        },
+        {
+            "keywords":["print","log","show","console.log"],
+        	"voices":[
+        		"/V1/SV316_0_攻击8.mp3", //噢，看……是森林？
+                "/V2/SV316_2_胜利1.mp3", //不管输还是赢，死尸都会增加。只有虫子们会为此高兴罢了。
+                
+        	]
+        },
+        {
+            "keywords":["cache","throw"],
+        	"voices":[
+        		"/V2/SV316_2_攻击13.mp3", //尸骸们啊！
+                "/V2/SV316_2_攻击14.mp3", //给你享用吧。
+        	]         
+        },
+        {
+            "keywords":["copy","this"],
+        	"voices":[
+        		"/V2/SV316_2_攻击6.mp3", //想要？那么给你！
+                "/V2/SV316_2_对话1.mp3",//对不起，我正在休息。能不要和我搭话吗？
+        	] 
+        },
+        {
+            "keywords":["master","server","client"],
+        	"voices":[
+        		"/V2/SV316_2_对话2.mp3", //主从关系。可真是世界上屈指可数的最差劲的词呢。
+                "/V2/SV316_2_对话1.mp3",//我和你是契约上的关系吧。除此之外还有别的吗？
+        	] 
+        },
+        {
+            "keywords":["volatile","typedef","define","case","database"],
+        	"voices":[
+        		"/V2/SV316_2_攻击5.mp3", //啊——真麻烦！
+        	] 
+        },
+        {
+            "keywords":["true", "True", "yes"],
+        	"voices":[
+        		"/V2/SV316_2_技能2.mp3", //真爱逞强，令人作呕！
+                "/V2/SV316_2_开始2.mp3", //啊，仅仅是真心话的话我会告诉你。现在我有这份心情。
+        	] 
+        },
+        {
+            "keywords":["NULL", "None", "undefined","void"],
+        	"voices":[
+        		"/V2/SV316_2_灵基再临2.mp3", //无底之空……空虚之命……喜悦在明日就会贬值……痛苦在昨天就会被忘却……。美丽的东西，它的前提是丑陋；丑陋的东西，它的前提是美丽……。啊，真是个笑柄。你真的相信，人生有内涵什么的吗？哎，告诉我吧，布兰卡。你的故事，能令人满意吗？
+                "/V2/SV316_2_技能1.mp3", //哈哈哈哈哈！好啊，太棒了。
+        	] 
+        },
+
+        {
+            "keywords":["error", "err", "Error"],
+        	"voices":[
+        		"/V2/SV316_2_攻击11.mp3", //因为我是虫子嘛。
+                "/V2/SV316_2_指令卡3.mp3", //好啊。
+        	] 
+        },
+        {
+        "keywords":["pass", "TODO", "move"],
+        	"voices":[
+        		"/V2/SV316_2_攻击4.mp3", //你别动。
+                "/V2/SV316_2_宝具3.mp3", //在那前方……没有一丝光芒。
+                "/V2/SV316_2_攻击10.mp3", //很合适很合适。
+        	] 
+        },
+        {
+            "keywords":["set", "map", "range", "public"],
+                "voices":[
+                    "/V2/SV316_2_攻击8.mp3", //真是悲伤。
+                ] 
+        },
+        {
+            "keywords":["protected ","static"],
+                "voices":[
+                    "/V2/SV316_2_胜利2.mp3", //真是倒霉。好不容易戴的翅膀受伤了。不过，只是假翅膀罢了。
+                ] 
+        },
+        {
+            "keywords":["native ","const","global"],
+                "voices":[
+                    "/V2/SV316_2_升级1.mp3", //什么啊这是。好笑，好好笑。给我上供会有什么好事情发生吗？
+                ] 
+        }
+        
+       
+    ]
+}
